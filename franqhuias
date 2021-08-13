@@ -195,6 +195,21 @@ Número de filmes: 3
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
+<name>[B][COLOR aquamarine]Mad Max[/COLOR][/B]</name>
+
+<thumbnail>https://i.ibb.co/HNr3HrM/madmax-icon.png</thumbnail>
+
+<externallink>https://pastebin.com/raw/PqMECzbk</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/oQIBypbvcAwtTVu26G81Xxhd57x.jpg</fanart>
+
+<info>[COLOR aquamarine]Mad Max é uma franquia multi-media australiana do gênero ficção científica, contendo elementos de ação baseada em um futuro pós-apocalíptico, criada por James McCausland e George Miller. Começou em 1979 com o filme Mad Max, seguido por Mad Max 2: The Road Warrior e Mad Max Beyond Thunderdome.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
 <name>[B][COLOR aquamarine]Maze Runner[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/002/816/794/full/maze_runner_icon.jpg?1596783282</thumbnail>
@@ -240,8 +255,49 @@ Direção: Christopher McQuarrie, Brad Bird, J. J. Abrams, Brian De Palma, 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+<name>[B][COLOR aquamarine]O Chamado[/COLOR][/B]</name>
 
-0909
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/xk4Yrpz00gxitMLCLCUVOjvmkOq.jpg</thumbnail>
+
+<externallink>https://pastebin.com/raw/nRQLweBs</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vmsdBwqOfUWtSesUrsIblf9qZPw.jpg</fanart>
+
+<info>[COLOR aquamarine]Uma série de filmes de horror psicológico americano baseada no filme de terror japonês Ringu de 1998.
+Número de filmes: 3[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]O Exorcista[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/817/367/full/exorcista.png?1596815376</thumbnail>
+
+<externallink>https://pastebin.com/raw/kRHLUm8Y</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/gZnEheMdhKxSZQUEzphCHXldud1.jpg</fanart>
+
+<info>[COLOR aquamarine]Uma série de filmes de terror baseada na história de ficção da novela de William Blatty O Exorcista[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]O Exterminador do Futuro[/COLOR][/B]</name>
+
+<thumbnail>https://i.ibb.co/pL9NQDp/Exterminador-icon.png</thumbnail>
+
+<externallink>https://pastebin.com/raw/icxUqHLf</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/4T7AizDnNLr2RcDLIZk32ZDVLYg.jpg</fanart>
+
+<info>[COLOR aquamarine]Terminator (Exterminador do Futuro) é o título de uma franquia de ficção científica criada em 1984 por James Cameron com o filme The Terminator. Desde então, o filme teve 6 sequências no cinema, a série de televisão Terminator: The Sarah Connor Chronicles, e vários livros, video games e arte sequencial. Terminator é centrada na guerra entre a inteligência artificial Skynet e a resistência humana liderada por John Connor, em que a Skynet faz uso de ciborgues similares a humanos conhecidos por Exterminadores.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channel>
 
 <name>[B][COLOR aquamarine]O Hobbit[/COLOR][/B]</name>
@@ -256,7 +312,58 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Número de filmes: 3[/COLOR]</info>
 </channel>
 
+XXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]O Exterminador do Futuro[/COLOR][/B]</name>
+
+<thumbnail>https://i.ibb.co/pL9NQDp/Exterminador-icon.png</thumbnail>
+
+<externallink>https://pastebin.com/raw/icxUqHLf</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/4T7AizDnNLr2RcDLIZk32ZDVLYg.jpg</fanart>
+
+<info>[COLOR aquamarine]Terminator (Exterminador do Futuro) é o título de uma franquia de ficção científica criada em 1984 por James Cameron com o filme The Terminator. Desde então, o filme teve 6 sequências no cinema, a série de televisão Terminator: The Sarah Connor Chronicles, e vários livros, video games e arte sequencial. Terminator é centrada na guerra entre a inteligência artificial Skynet e a resistência humana liderada por John Connor, em que a Skynet faz uso de ciborgues similares a humanos conhecidos por Exterminadores.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]O Poderoso Chefão[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/804/full/poderoso_chef%C3%A3o.png?1596784084</thumbnail>
+
+<externallink>https://pastebin.com/raw/BJKP3g4e</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/3WZTxpgscsmoUk81TuECXdFOD0R.jpg</fanart>
+
+<info>[COLOR aquamarine]Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.[/COLOR]</info>
+
+</channel>
+
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]O Predador[/COLOR][/B]</name>
+
+<thumbnail>https://i.ibb.co/6D7qcCs/predador-icon.png</thumbnail>
+
+<externallink>https://pastebin.com/raw/Xagap5MF</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg</fanart>
+
+<info>[COLOR aquamarine]Para os mais novos e os que não conhecem a fundo, vale lembrar que O Predador é um filme de 1987, que gerou duas sequelas, Predador 2 (1990), e Predadores (2010), dois filmes em crossover com a franquia Alien vs. Predator: Alien vs. Predator (2004) e Alien vs. Predador 2 (2007), e uma espécie de reboot, The Predator (2018).
+[/COLOR]</info>
+</channel>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+0909
+
 
 <channel>
 <name>[B][COLOR aquamarine]Senhor dos Aneis[/COLOR][/B]</name>
@@ -321,22 +428,6 @@ Número de filmes: 5[/COLOR]</info>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<channel>
-<name>[B][COLOR aquamarine]O Chamado[/COLOR][/B]</name>
-
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/xk4Yrpz00gxitMLCLCUVOjvmkOq.jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/nRQLweBs</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vmsdBwqOfUWtSesUrsIblf9qZPw.jpg</fanart>
-
-<info>[COLOR aquamarine]Uma série de filmes de horror psicológico americano baseada no filme de terror japonês Ringu de 1998.
-Número de filmes: 3[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channel>
 <name>[B][COLOR aquamarine]Velozes e Furiosos[/COLOR][/B]</name>
 
@@ -358,35 +449,6 @@ Número de filmes: 8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]O Exorcista[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/817/367/full/exorcista.png?1596815376</thumbnail>
-
-<externallink>https://pastebin.com/raw/kRHLUm8Y</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/gZnEheMdhKxSZQUEzphCHXldud1.jpg</fanart>
-
-<info>[COLOR aquamarine]Uma série de filmes de terror baseada na história de ficção da novela de William Blatty O Exorcista[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]O Predador[/COLOR][/B]</name>
-
-<thumbnail>https://i.ibb.co/6D7qcCs/predador-icon.png</thumbnail>
-
-<externallink>https://pastebin.com/raw/Xagap5MF</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg</fanart>
-
-<info>[COLOR aquamarine]Para os mais novos e os que não conhecem a fundo, vale lembrar que O Predador é um filme de 1987, que gerou duas sequelas, Predador 2 (1990), e Predadores (2010), dois filmes em crossover com a franquia Alien vs. Predator: Alien vs. Predator (2004) e Alien vs. Predador 2 (2007), e uma espécie de reboot, The Predator (2018).
-[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
 <name>[B][COLOR aquamarine]Rambo[/COLOR][/B]</name>
 
 <thumbnail>https://i.ibb.co/CnsTDHv/Rambo-icon.png</thumbnail>
@@ -399,35 +461,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Mad Max[/COLOR][/B]</name>
-
-<thumbnail>https://i.ibb.co/HNr3HrM/madmax-icon.png</thumbnail>
-
-<externallink>https://pastebin.com/raw/PqMECzbk</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/oQIBypbvcAwtTVu26G81Xxhd57x.jpg</fanart>
-
-<info>[COLOR aquamarine]Mad Max é uma franquia multi-media australiana do gênero ficção científica, contendo elementos de ação baseada em um futuro pós-apocalíptico, criada por James McCausland e George Miller. Começou em 1979 com o filme Mad Max, seguido por Mad Max 2: The Road Warrior e Mad Max Beyond Thunderdome.[/COLOR]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]O Exterminador do Futuro[/COLOR][/B]</name>
-
-<thumbnail>https://i.ibb.co/pL9NQDp/Exterminador-icon.png</thumbnail>
-
-<externallink>https://pastebin.com/raw/icxUqHLf</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/4T7AizDnNLr2RcDLIZk32ZDVLYg.jpg</fanart>
-
-<info>[COLOR aquamarine]Terminator (Exterminador do Futuro) é o título de uma franquia de ficção científica criada em 1984 por James Cameron com o filme The Terminator. Desde então, o filme teve 6 sequências no cinema, a série de televisão Terminator: The Sarah Connor Chronicles, e vários livros, video games e arte sequencial. Terminator é centrada na guerra entre a inteligência artificial Skynet e a resistência humana liderada por John Connor, em que a Skynet faz uso de ciborgues similares a humanos conhecidos por Exterminadores.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <channel>
@@ -570,21 +603,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]O Poderoso Chefão[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/816/804/full/poderoso_chef%C3%A3o.png?1596784084</thumbnail>
-
-<externallink>https://pastebin.com/raw/BJKP3g4e</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/3WZTxpgscsmoUk81TuECXdFOD0R.jpg</fanart>
-
-<info>[COLOR aquamarine]Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.[/COLOR]</info>
-
-</channel>
-
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
