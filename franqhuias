@@ -17,11 +17,11 @@ Estamos sós no universo? A julgar por nossa seleção, com certeza, não. Prepa
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
+<channel>
 
-<title>[B][COLOR aquamarine]American Pie[/COLOR][/B]</title>
+<name>[B][COLOR aquamarine]American Pie[/COLOR][/B]</name>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:974419772FC4A51F44A3AA87A9F779353AB4A16F&dn=%5Bby-fb%5D-American%20Pie%20%E2%80%93%20Cole%C3%A7%C3%A3o%20DVDRip%20XviD%20Dub%20PT%20BR%20-%20FB&tr=udp%3A//tracker.openbittorrent.com%3A80</link>
+<externallink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:974419772FC4A51F44A3AA87A9F779353AB4A16F&dn=%5Bby-fb%5D-American%20Pie%20%E2%80%93%20Cole%C3%A7%C3%A3o%20DVDRip%20XviD%20Dub%20PT%20BR%20-%20FB&tr=udp%3A//tracker.openbittorrent.com%3A80</externallink>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/qL9pOTB36aDH0oxh2DzSit9NrsR.jpg</thumbnail>
 
@@ -29,7 +29,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <info>[B][COLOR aquamarine]Sinopse: [/COLOR][/B]American Pie é um filme americano de comédia lançado em 9 de julho de 1999, com direção de Paul Weitz e Chris Weitz, e roteiro de Adam Herz. O sucesso deu origem a mais três sequências, que acompanharam os personagens em momentos importantes dos próximos anos. E, como se não bastasse, rendeu ainda uma série de cinco spin-offs chamada American Pie Presents. que se concentraram em parentes de um dos protagonistas do grupo original e até mesmo em histórias com outros personagens, que apenas compartilhavam o mesmo universo da série.</info>
 
-</item>
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
