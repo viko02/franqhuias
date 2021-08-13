@@ -206,6 +206,20 @@ Número de filmes: 3
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
+<name>[B][COLOR aquamarine]Jurassic Park dos Dinossauros[/COLOR][/B]</name>
+
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/9i3plLl89DHMz7mahksDaAo7HIS.jpg</thumbnail>
+
+<externallink>https://pastebin.com/raw/sL4VkTeY</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/95QcOsRGRzJ2cLaqaR4pEfwjezF.jpg</fanart>
+
+<info>[COLOR aquamarine]Jurassic Park é uma das franquias mais famosas do cinema, o primeiro e segundo filmes foram baseados nos livros de Michael Crichton, mas o diretor Steven Spielberg foi o responsável por dar o ponta pé inicial para que Jurassic Park ganhasse uma legião de fãs pelo Mundo. Tanto os livros como os filmes usam a teoria do caos e suas implicações filosóficas para explicar o colapso do parque e as dificuldades de se manter seres extintos em um ambiente moderno.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
 <name>[B][COLOR aquamarine]Matrix[/COLOR][/B]</name>
 
 <thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/wBYvON4udv3pnqyCNF858Mr0W4G.jpg</thumbnail>
@@ -389,20 +403,6 @@ Número de filmes: 5[/COLOR]</info>
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Parque dos Dinossauros[/COLOR][/B]</name>
-
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/9i3plLl89DHMz7mahksDaAo7HIS.jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/sL4VkTeY</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/95QcOsRGRzJ2cLaqaR4pEfwjezF.jpg</fanart>
-
-<info>[COLOR aquamarine]Jurassic Park é uma das franquias mais famosas do cinema, o primeiro e segundo filmes foram baseados nos livros de Michael Crichton, mas o diretor Steven Spielberg foi o responsável por dar o ponta pé inicial para que Jurassic Park ganhasse uma legião de fãs pelo Mundo. Tanto os livros como os filmes usam a teoria do caos e suas implicações filosóficas para explicar o colapso do parque e as dificuldades de se manter seres extintos em um ambiente moderno.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[B][COLOR aquamarine]Piratas do Caribe[/COLOR][/B]</name>
