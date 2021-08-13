@@ -535,27 +535,6 @@ Número de filmes: 9
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<channel>
-<name>[B][COLOR aquamarine]Velozes e Furiosos[/COLOR][/B]</name>
-
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/zQdytnqfsWKJlqazqfMBL2L7aql.jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/CTUwnEfT</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/3gp744RzKvFB0X5Nbc2UeHW3mX2.jpg</fanart>
-
-<info>[COLOR aquamarine]The Fast and the Furious é uma saga americana, criada em 2001, que se integra na categoria de filmes de ação. Esta saga concentra-se em torno de corridas de rua ilegais, assaltos e vários outros meios.
-Elenco: Paul Walker, Vin Diesel, Michelle Rodriguez, Dwayne Johnson, Jordana Brewster
-Personagens: Dominic Toretto, Brian O'Conner, Han Lue, Letty Ortiz, Gisele Harabo, Mia Toretto
-Direção: Vin Diesel, Justin Lin, F. Gary Gray, James Wan, Phillip Atwell, John Singleton
-Produtoras: Universal Studios, Original Film, One Race Films, Seven Bucks Productions, Relativity Media.
-Número de filmes: 8
-[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channel>
 <name>[B][COLOR aquamarine]Tartarugas Ninja[/COLOR][/B]</name>
 
@@ -583,3 +562,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Velozes e Furiosos[/COLOR][/B]</name>
+
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/zQdytnqfsWKJlqazqfMBL2L7aql.jpg</thumbnail>
+
+<externallink>https://pastebin.com/raw/CTUwnEfT</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/3gp744RzKvFB0X5Nbc2UeHW3mX2.jpg</fanart>
+
+<info>[COLOR aquamarine]The Fast and the Furious é uma saga americana, criada em 2001, que se integra na categoria de filmes de ação. Esta saga concentra-se em torno de corridas de rua ilegais, assaltos e vários outros meios.
+Elenco: Paul Walker, Vin Diesel, Michelle Rodriguez, Dwayne Johnson, Jordana Brewster
+Personagens: Dominic Toretto, Brian O'Conner, Han Lue, Letty Ortiz, Gisele Harabo, Mia Toretto
+Direção: Vin Diesel, Justin Lin, F. Gary Gray, James Wan, Phillip Atwell, John Singleton
+Produtoras: Universal Studios, Original Film, One Race Films, Seven Bucks Productions, Relativity Media.
+Número de filmes: 8
+[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
