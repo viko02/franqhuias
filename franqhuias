@@ -117,6 +117,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
+<name>[B][COLOR aquamarine]Halloween[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/818/067/full/hallloween.png?1596835883</thumbnail>
+
+<externallink>https://pastebin.com/raw/DEae0nuq</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/8XxiJ9WYHAzFZMbvq3Jf6JyMEbt.jpg</fanart>
+
+<info>[COLOR aquamarine]Halloween é uma série de filmes de terror que consiste em filmes de estripador focados no personagem fictício de Michael Myers. As mortes de Michael ocorrem no feriado de Halloween, no qual todos os filmes ocorrem principalmente.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
 
 <name>[B][COLOR aquamarine]Harry Potter[/COLOR][/B]</name>
 
@@ -132,6 +146,20 @@ Número de filmes: 8
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+<channel>
+<name>[B][COLOR aquamarine]Indiana Jones[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/325/original/Indiana_icon.png?1596630350</thumbnail>
+
+<externallink>https://pastebin.com/raw/MEbStk4J</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/813/335/original/Indiana_fanart.jpg?1596630512</fanart>
+
+<info>[COLOR aquamarine]Indiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[B][COLOR aquamarine]Jogos Mortais[/COLOR][/B]</name>
@@ -404,6 +432,76 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+<name>[B][COLOR aquamarine]Premonição[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/818/187/full/premoni%C3%A7%C3%A3o_icon.png?1596839130</thumbnail>
+
+<externallink>https://pastebin.com/raw/EQK33bj4</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/y3aWOInifbGKXM34KjtcMITrZRZ.jpg</fanart>
+
+<info>[COLOR aquamarine]Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Rambo[/COLOR][/B]</name>
+
+<thumbnail>https://i.ibb.co/CnsTDHv/Rambo-icon.png</thumbnail>
+
+<externallink>https://pastebin.com/raw/XGRazgp2</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/qubc6gw5mIFBKM6LCiiWqqOxqZN.jpg</fanart>
+
+<info>[COLOR aquamarine]Franquia de sucesso dos anos 80, Rambo é uma série de filmes baseada no romance "First Blood", de 1972, escrito por David Morrell, mas que tornou-se célebre pelos filmes protagonizados por Sylvester Stallone. A série tem como personagem principal o soldado boina verde e ex-combatente da Guerra do Vietnã John Rambo.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Resident Evil[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/818/299/full/Resident_Evil_Leg%C3%ADtimo.png?1596841720</thumbnail>
+
+<externallink>https://pastebin.com/raw/FQbtDXLp</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/jNBoZiD75HlTPxAKkwCS74lSEnx.jpg</fanart>
+
+<info>[COLOR aquamarine]Baseado vagamente nos game da Capcom do mesmo nome. A série de filmes é escrita por Paul W.S. Anderson com a protagonista Alice, interpretada por Milla Jovovich. A Umbrella Corporation atua como o principal antagonista da série, uma empresa farmacêutica de bioengenharia responsável pelo apocalipse zumbi como resultado da criação do virus T.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]RoboCop[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/803/full/Robocop.jpg?1596784035</thumbnail>
+
+<externallink>https://pastebin.com/raw/3kcksnNx</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/azQScQWHpz5puIV4YeCcqgiT9Tn.jpg</fanart>
+
+<info>[COLOR aquamarine]Quando um policial fatalmente ferido por uma gangue de lunáticos é renascido na forma de um cyborg, parte homem, parte máquina, surge RoboCop. Um blockbuster de 1987 que gerou duas seqüência de grande sucesso.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Rocky[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/387/full/rocky_icon.png?1596632254</thumbnail>
+
+<externallink>https://pastebin.com/raw/7fKkz752</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg</fanart>
+
+<info>[COLOR aquamarine]Rocky é uma série de filmes de ação estrelada e escrita pelo ator americano Sylvester Stallone, o qual nestes filmes interpreta o boxeador Rocky Balboa.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 0909
 
@@ -463,63 +561,6 @@ Número de filmes: 8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]Rambo[/COLOR][/B]</name>
-
-<thumbnail>https://i.ibb.co/CnsTDHv/Rambo-icon.png</thumbnail>
-
-<externallink>https://pastebin.com/raw/XGRazgp2</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/qubc6gw5mIFBKM6LCiiWqqOxqZN.jpg</fanart>
-
-<info>[COLOR aquamarine]Franquia de sucesso dos anos 80, Rambo é uma série de filmes baseada no romance "First Blood", de 1972, escrito por David Morrell, mas que tornou-se célebre pelos filmes protagonizados por Sylvester Stallone. A série tem como personagem principal o soldado boina verde e ex-combatente da Guerra do Vietnã John Rambo.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channel>
-<name>[B][COLOR aquamarine]Premonição[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/818/187/full/premoni%C3%A7%C3%A3o_icon.png?1596839130</thumbnail>
-
-<externallink>https://pastebin.com/raw/EQK33bj4</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/y3aWOInifbGKXM34KjtcMITrZRZ.jpg</fanart>
-
-<info>[COLOR aquamarine]Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Indiana Jones[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/813/325/original/Indiana_icon.png?1596630350</thumbnail>
-
-<externallink>https://pastebin.com/raw/MEbStk4J</externallink>
-
-<fanart>https://uploaddeimagens.com.br/images/002/813/335/original/Indiana_fanart.jpg?1596630512</fanart>
-
-<info>[COLOR aquamarine]Indiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Rocky[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/813/387/full/rocky_icon.png?1596632254</thumbnail>
-
-<externallink>https://pastebin.com/raw/7fKkz752</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg</fanart>
-
-<info>[COLOR aquamarine]Rocky é uma série de filmes de ação estrelada e escrita pelo ator americano Sylvester Stallone, o qual nestes filmes interpreta o boxeador Rocky Balboa.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
 <name>[B][COLOR aquamarine]Tartarugas Ninja[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/002/815/788/full/tartarugas_icon.png?1596736036</thumbnail>
@@ -546,45 +587,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Halloween[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/818/067/full/hallloween.png?1596835883</thumbnail>
-
-<externallink>https://pastebin.com/raw/DEae0nuq</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/8XxiJ9WYHAzFZMbvq3Jf6JyMEbt.jpg</fanart>
-
-<info>[COLOR aquamarine]Halloween é uma série de filmes de terror que consiste em filmes de estripador focados no personagem fictício de Michael Myers. As mortes de Michael ocorrem no feriado de Halloween, no qual todos os filmes ocorrem principalmente.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Resident Evil[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/818/299/full/Resident_Evil_Leg%C3%ADtimo.png?1596841720</thumbnail>
-
-<externallink>https://pastebin.com/raw/FQbtDXLp</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/jNBoZiD75HlTPxAKkwCS74lSEnx.jpg</fanart>
-
-<info>[COLOR aquamarine]Baseado vagamente nos game da Capcom do mesmo nome. A série de filmes é escrita por Paul W.S. Anderson com a protagonista Alice, interpretada por Milla Jovovich. A Umbrella Corporation atua como o principal antagonista da série, uma empresa farmacêutica de bioengenharia responsável pelo apocalipse zumbi como resultado da criação do virus T.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]RoboCop[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/816/803/full/Robocop.jpg?1596784035</thumbnail>
-
-<externallink>https://pastebin.com/raw/3kcksnNx</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/azQScQWHpz5puIV4YeCcqgiT9Tn.jpg</fanart>
-
-<info>[COLOR aquamarine]Quando um policial fatalmente ferido por uma gangue de lunáticos é renascido na forma de um cyborg, parte homem, parte máquina, surge RoboCop. Um blockbuster de 1987 que gerou duas seqüência de grande sucesso.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
