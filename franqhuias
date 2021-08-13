@@ -315,20 +315,6 @@ Número de filmes: 3[/COLOR]</info>
 XXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]O Exterminador do Futuro[/COLOR][/B]</name>
-
-<thumbnail>https://i.ibb.co/pL9NQDp/Exterminador-icon.png</thumbnail>
-
-<externallink>https://pastebin.com/raw/icxUqHLf</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/4T7AizDnNLr2RcDLIZk32ZDVLYg.jpg</fanart>
-
-<info>[COLOR aquamarine]Terminator (Exterminador do Futuro) é o título de uma franquia de ficção científica criada em 1984 por James Cameron com o filme The Terminator. Desde então, o filme teve 6 sequências no cinema, a série de televisão Terminator: The Sarah Connor Chronicles, e vários livros, video games e arte sequencial. Terminator é centrada na guerra entre a inteligência artificial Skynet e a resistência humana liderada por John Connor, em que a Skynet faz uso de ciborgues similares a humanos conhecidos por Exterminadores.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
 
 <name>[B][COLOR aquamarine]O Poderoso Chefão[/COLOR][/B]</name>
 
@@ -360,6 +346,63 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Pânico[/COLOR][/B]</name>
+
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/p3EjClFy20jjT0u06dzBs4lvvhi.jpg</thumbnail>
+
+<externallink>https://pastebin.com/raw/wcFh1A0e</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/dZqsivuEhuHMYgLiMjtMXLImRzE.jpg</fanart>
+
+<info>[COLOR aquamarine]Pânico (Scream) é uma série de filmes de suspense e terror criada por Kevin Williamson e Wes Craven. A série é composta por quatro filmes e estrelada por Neve Campbell, Courteney Cox e David Arquette, ela arrecadou mais de 600 milhões de dólares em bilheterias do mundo todo. O primeiro filme foi lançado em 20 de dezembro de 1996, seguido pelo segundo filme em 12 de dezembro de 1997 e pelo terceiro filme em 4 de fevereiro de 2000. O quarto filme foi lançado onze anos depois, em 15 de abril de 2011.
+Número de filmes: 5[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Parque dos Dinossauros[/COLOR][/B]</name>
+
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/9i3plLl89DHMz7mahksDaAo7HIS.jpg</thumbnail>
+
+<externallink>https://pastebin.com/raw/sL4VkTeY</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/95QcOsRGRzJ2cLaqaR4pEfwjezF.jpg</fanart>
+
+<info>[COLOR aquamarine]Jurassic Park é uma das franquias mais famosas do cinema, o primeiro e segundo filmes foram baseados nos livros de Michael Crichton, mas o diretor Steven Spielberg foi o responsável por dar o ponta pé inicial para que Jurassic Park ganhasse uma legião de fãs pelo Mundo. Tanto os livros como os filmes usam a teoria do caos e suas implicações filosóficas para explicar o colapso do parque e as dificuldades de se manter seres extintos em um ambiente moderno.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Piratas do Caribe[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/944/full/piratas_icon.png?1596646266</thumbnail>
+
+<externallink>https://pastebin.com/raw/q9XYWqHV</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg</fanart>
+
+<info>[COLOR aquamarine]Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Planeta dos Macacos[/COLOR][/B]</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/746/original/planeta_macacos_icon.jpg?1596775956</thumbnail>
+
+<externallink>https://pastebin.com/raw/v0LPnTx7</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/hJO55dA3xTJPmrH6nkZzAnJBirx.jpg</fanart>
+
+<info>[COLOR aquamarine]Em 2005, os roteiristas Rick Jaffa e Amanda Silver desenvolveram um conceito para um novo filme do Planeta dos Macacos. Inspirado por artigos de notícias sobre macacos criados como humanos e avanços em genética, Jaffa concebeu uma ideia de um filme sobre um chimpanzé geneticamente melhorado em uma família humana.[/COLOR]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 0909
@@ -398,35 +441,6 @@ Número de filmes: 9
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<channel>
-<name>[B][COLOR aquamarine]Parque dos Dinossauros[/COLOR][/B]</name>
-
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/9i3plLl89DHMz7mahksDaAo7HIS.jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/sL4VkTeY</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/95QcOsRGRzJ2cLaqaR4pEfwjezF.jpg</fanart>
-
-<info>[COLOR aquamarine]Jurassic Park é uma das franquias mais famosas do cinema, o primeiro e segundo filmes foram baseados nos livros de Michael Crichton, mas o diretor Steven Spielberg foi o responsável por dar o ponta pé inicial para que Jurassic Park ganhasse uma legião de fãs pelo Mundo. Tanto os livros como os filmes usam a teoria do caos e suas implicações filosóficas para explicar o colapso do parque e as dificuldades de se manter seres extintos em um ambiente moderno.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Pânico[/COLOR][/B]</name>
-
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/p3EjClFy20jjT0u06dzBs4lvvhi.jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/wcFh1A0e</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/dZqsivuEhuHMYgLiMjtMXLImRzE.jpg</fanart>
-
-<info>[COLOR aquamarine]Pânico (Scream) é uma série de filmes de suspense e terror criada por Kevin Williamson e Wes Craven. A série é composta por quatro filmes e estrelada por Neve Campbell, Courteney Cox e David Arquette, ela arrecadou mais de 600 milhões de dólares em bilheterias do mundo todo. O primeiro filme foi lançado em 20 de dezembro de 1996, seguido pelo segundo filme em 12 de dezembro de 1997 e pelo terceiro filme em 4 de fevereiro de 2000. O quarto filme foi lançado onze anos depois, em 15 de abril de 2011.
-Número de filmes: 5[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[B][COLOR aquamarine]Velozes e Furiosos[/COLOR][/B]</name>
@@ -506,20 +520,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]Piratas do Caribe[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/813/944/full/piratas_icon.png?1596646266</thumbnail>
-
-<externallink>https://pastebin.com/raw/q9XYWqHV</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg</fanart>
-
-<info>[COLOR aquamarine]Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
 <name>[B][COLOR aquamarine]Tartarugas Ninja[/COLOR][/B]</name>
 
 <thumbnail>https://uploaddeimagens.com.br/images/002/815/788/full/tartarugas_icon.png?1596736036</thumbnail>
@@ -546,21 +546,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Planeta dos Macacos[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/816/746/original/planeta_macacos_icon.jpg?1596775956</thumbnail>
-
-<externallink>https://pastebin.com/raw/v0LPnTx7</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/hJO55dA3xTJPmrH6nkZzAnJBirx.jpg</fanart>
-
-<info>[COLOR aquamarine]Em 2005, os roteiristas Rick Jaffa e Amanda Silver desenvolveram um conceito para um novo filme do Planeta dos Macacos. Inspirado por artigos de notícias sobre macacos criados como humanos e avanços em genética, Jaffa concebeu uma ideia de um filme sobre um chimpanzé geneticamente melhorado em uma família humana.[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <channel>
 <name>[B][COLOR aquamarine]Halloween[/COLOR][/B]</name>
