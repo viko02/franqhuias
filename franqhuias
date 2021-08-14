@@ -2,6 +2,22 @@
 
 
 <channel>
+
+<name>007 James Bond</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/dTxLAJftBBCI28QfS7aN23hhyex.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/00h7/raw/main/00h7</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/dOSECZImeyZldoq0ObieBE0lwie.jpg</fanart>
+
+<info>A série de filmes de James Bond é uma série britânica de filmes de espião com base no personagem fictício do agente MI6 James Bond, codinome "007". Com toda ação, aventura e gadgets que deixou Bond famoso.</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
 <name>[B][COLOR aquamarine]Alien[/COLOR][/B]</name>
 
 <thumbnail>https://i.ibb.co/xX9MNyR/alien-icon.jpg</thumbnail>
