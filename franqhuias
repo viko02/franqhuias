@@ -3,7 +3,7 @@
 
 <channel>
 
-<name>007 James Bond</name>
+<name>[B][COLOR aquamarine]007 James Bond[/COLOR][/B]</name>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/dTxLAJftBBCI28QfS7aN23hhyex.jpg</thumbnail>
 
@@ -11,7 +11,7 @@
 
 <fanart>https://www.themoviedb.org/t/p/original/dOSECZImeyZldoq0ObieBE0lwie.jpg</fanart>
 
-<info>A série de filmes de James Bond é uma série britânica de filmes de espião com base no personagem fictício do agente MI6 James Bond, codinome "007". Com toda ação, aventura e gadgets que deixou Bond famoso.</info>
+<info>[COLOR aquamarine]A série de filmes de James Bond é uma série britânica de filmes de espião com base no personagem fictício do agente MI6 James Bond, codinome "007". Com toda ação, aventura e gadgets que deixou Bond famoso.[/COLOR]</info>
 
 </channel>
 
@@ -400,21 +400,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]O Predador[/COLOR][/B]</name>
-
-<thumbnail>https://i.ibb.co/6D7qcCs/predador-icon.png</thumbnail>
-
-<externallink>https://pastebin.com/raw/Xagap5MF</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg</fanart>
-
-<info>[COLOR aquamarine]Para os mais novos e os que não conhecem a fundo, vale lembrar que O Predador é um filme de 1987, que gerou duas sequelas, Predador 2 (1990), e Predadores (2010), dois filmes em crossover com a franquia Alien vs. Predator: Alien vs. Predator (2004) e Alien vs. Predador 2 (2007), e uma espécie de reboot, The Predator (2018).
-[/COLOR]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
 <name>[B][COLOR aquamarine]Pânico[/COLOR][/B]</name>
 
 <thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/p3EjClFy20jjT0u06dzBs4lvvhi.jpg</thumbnail>
@@ -456,6 +441,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Predadores[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/6Z7lASptoiRVxiCFvZaFgH9qp7u.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/predhadores/raw/main/predhadores</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg</fanart>
+
+<info>Para os mais novos e os que não conhecem a fundo, vale lembrar que O Predador é um filme de 1987, que gerou duas sequelas, Predador 2 (1990), e Predadores (2010), dois filmes em crossover com a franquia Alien vs. Predator: Alien vs. Predator (2004) e Alien vs. Predador 2 (2007), e uma espécie de reboot, The Predator (2018).
+[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]
+</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[B][COLOR aquamarine]Premonição[/COLOR][/B]</name>
